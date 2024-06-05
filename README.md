@@ -13,15 +13,18 @@ To further strengthen our approach, we have selected 39 features using various F
 
 ## Accuracy Heatmap of the Different Feature Selection Methods for Cancer Driver Genes
 
-![ACC_D](https://github.com/Rohit17145/Gastric/assets/49432402/d7b33e3e-26ad-4a62-86be-ffa7b1711082)
+![ACC_D](https://github.com/GITractCancer/GastricPredDriver/assets/171772666/f63c0822-4594-4c6f-865e-d445a5d3ffce)
+
 
 ## AUC Heatmap of the Different Feature Selection Methods for Cancer Driver Genes 
 
-![AUC_D](https://github.com/Rohit17145/Gastric/assets/49432402/75aa37e0-98f6-40c6-b352-9047edcd1faa)
+![AUC_D](https://github.com/GITractCancer/GastricPredDriver/assets/171772666/d7935da7-cf47-4c6e-adcf-3e6d3b808c78)
+
 
 
 ## Venn Diagram showing features in atleast in 2 Feature Selection Methods for Cancer Driver Genes
-![Driver](https://github.com/Rohit17145/Gastric/assets/49432402/da226539-69fe-453c-ba69-9b52b730e564)
+
+![Driver](https://github.com/GITractCancer/GastricPredDriver/assets/171772666/3fa7e78e-522d-4135-9f84-82d583fee6ab)
 
 
 Installation and Usage:
@@ -42,7 +45,7 @@ You can install the package using the following command:
     df = pd.read_csv("path/to/your/data.csv")
 
     predict(df, model_type='svc')
-
+    print(df)
     
 Specify the model type you want to use Models
 
