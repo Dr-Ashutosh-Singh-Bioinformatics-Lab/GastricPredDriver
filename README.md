@@ -1,4 +1,4 @@
-# GastricPred: A Tool for Identification of Gastric Cancer from salivary extracellular vesicles (EVs) using Machine Learning for Cancer Driver Genes.
+# GastricPredDriver: A Tool for Identification of Gastric Cancer from salivary extracellular vesicles (EVs) using Machine Learning for Cancer Driver Genes.
 Gastric cancer, originating from the stomach lining, presents a substantial global health challenge due to its high prevalence and mortality rates. Timely detection of gastric cancer is crucial for timely treatment and better patient prognosis. Biomarkers are pivotal in this regard, providing noninvasive means for early detection, facilitating prompt treatment initiation, and potentially boosting survival rates. Hence, the recognition and validation of biomarkers are of primary importance in effectively addressing gastric cancer.
 
 
